@@ -8,9 +8,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C581%20hrs%2041%20mins-blue)
-
 <!--
 **ShauryaTripathi-UNSLD/ShauryaTripathi-UNSLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
