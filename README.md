@@ -2,9 +2,9 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ShauryaManiTripathi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="ShauryaTripathi-UNSLD" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShauryaManiTripathi&theme=material-palenight&hide_border=false" alt="ShauryaTripathi-UNSLD" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaTripathi-UNSLD&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ShauryaTripathi-UNSLD" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ShauryaManiTripathi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="ShauryaManiTripathi" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShauryaManiTripathi&theme=material-palenight&hide_border=false" alt="ShauryaManiTripathi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaManiTripathi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ShauryaManiTripathi" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
