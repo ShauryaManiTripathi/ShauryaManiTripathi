@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Computer Science Engineering student at IIIT Guwahati passionate about software development/AI/ML/New in Tech.<br>🤖 Experienced in building intelligent applications like PilgrimAI and CartGenie using Flask, Python, and Flutter. SHOWING way early implementation in agentic/MCP concepts<br>💪 Skilled in C, C++, Python,JS,Flutter and database systems with a strong foundation in data structures and algorithms.<br>☁️ Currently exploring cloud technologies and deepening my knowledge in machine learning and Agentic frameworks.<br>🚀 Open to collaborate on innovative projects!
+👨‍💻 Computer Science/Engineering student at IIIT Guwahati passionate about software development/AI/ML/New in Tech.<br>🤖 Experienced in building intelligent applications like PilgrimAI and CartGenie using Flask, Python, and Flutter. SHOWING way early implementation in agentic/MCP concepts<br>💪 Skilled in C, C++, Python,JS,Flutter and database systems with a strong foundation in data structures and algorithms.<br>☁️ Currently exploring cloud technologies and deepening my knowledge in machine learning and Agentic frameworks.<br>🚀 Open to collaborate on innovative projects!
 
 
 ## 🌐 Socials:
