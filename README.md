@@ -2,6 +2,7 @@
 👨‍💻 Computer Science/Engineering student at IIIT Guwahati passionate about software development/AI/ML/New in Tech.<br>🤖 Experienced in building intelligent applications like PilgrimAI and CartGenie using Flask, Python, and Flutter. SHOWING way early implementation in agentic/MCP concepts<br>💪 Skilled in C, C++, Python,JS,Flutter and database systems with a strong foundation in data structures and algorithms.<br>☁️ Currently exploring cloud technologies and deepening my knowledge in machine learning and Agentic frameworks.<br>🚀 Open to collaborate on innovative projects!
 
 ### Prisma Devs -> fix your query abstraction/encapsulation -> they cause redundant/slow queries for simpler tasks
+### adopting Drizzle ORM in place of Prisma ORM
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-mani-tripathi-117553271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaurya.deoria@gmail.com) 
 
